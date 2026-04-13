@@ -2,7 +2,7 @@
 
 ## Building
 
-Requirement: Go 1.21+
+Requirement: Go 1.25.3+
 
 ```bash
 go build
